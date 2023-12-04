@@ -1,44 +1,31 @@
 # Film-booth-management
 
 #  Description
-Welcome to CineBookingSystem, a movie theater reservation system project that offers a complete experience for movie lovers. This application allows users to browse information about upcoming movies, book and purchase seats easily and conveniently, all from the comfort of their device.
+Welcome to CineBookingSystem, a movie theater reservation system project that offers a complete experience for movie lovers. This application allows users to browse information about purchase seats easily and conveniently, all from the comfort of their device.
 
-# Key Features
-
-Billboard Browsing:
-
-View detailed information about movies playing, including synopsis, showtimes and ratings.
-
-# Seat Reservation and Purchase:
+# Seat Reservation and Purchase
 
 Select and reserve your preferred seats for a specific movie.
 Make secure seat purchases using basic cards or Gold cards with exclusive discounts.
 
-# Card Management:
+# Card Management
 
 Register and manage credit cards associated with the user's account.
 Reload cards for future purchases and take advantage of special discounts.
 
-# Gold Card Discounts:
+# Gold Card Discounts
 
 Users with Gold cards enjoy exclusive discounts when purchasing seats, providing added value to Gold membership.
 
-# Technical Features:
 
-Developed in a web environment for easy accessibility from various devices.
-Uses modern technologies such as HTML, CSS and JavaScript for an attractive and responsive user interface.
-Incorporates an efficient database to manage movie, user, booking and transaction information.
+# How to get started
 
-# How to get started:
+This project was developed using Netbeans interfaces, therefore, for it to work correctly you must run the Netbeans IDE and download the files from this repository, extract the resulting .zip and open it in the Netbeans IDE, if you need some libraries remember to install the .jar of the libraries in the "libraries" folder of the project, if you find any error you can communicate to nicolas.arboleda@ucp.edu.co.
 
-Clone the repository: git clone https://github.com/tu_usuario/CineBookingSystem.git
-Set up the database and adjust the configuration according to your needs.
-Deploy the web application and access through your preferred browser.
-
-# Contribute:
+# Contribute
 Your contribution is welcome! If you find bugs or have ideas to improve the application, please create a pull request or open an issue.
 
-# Important Notes:
+# Important Notes
 
 The application is designed to be intuitive, but detailed documentation is provided in the repository to facilitate installation and use.
 
