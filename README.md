@@ -3,6 +3,13 @@
 #  Description
 Welcome to CineBookingSystem, a movie theater reservation system project that offers a complete experience for movie lovers. This application allows users to browse information about purchase seats easily and conveniently, all from the comfort of their device.
 
+![image](https://github.com/NikolaiIST/Film-booth-management/assets/150312544/b0a5997e-aa55-49d2-8859-48dd94c07efc)
+![image](https://github.com/NikolaiIST/Film-booth-management/assets/150312544/7fd8b2e7-b3da-4978-aa63-ff12b6d5786c)
+
+# Some problems you may have
+
+You may have some visual errors (I don't know why xd) when compiling the project using the "run" button of Netbeans, so it is better to find the JForm named "V_General.java" right click and "Run File", that would avoid the visual errors.
+
 # Seat Reservation and Purchase
 
 Select and reserve your preferred seats for a specific movie.
